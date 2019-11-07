@@ -1,0 +1,89 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	
+}
+
+footer {
+	margin: auto;
+	text-align: center;
+}
+
+
+.navbar-dark {
+	background-color: #e70009;
+	}
+
+
+.form-group {
+	padding-top: 10px;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: lightred;
+  text-color: black;
+}
+
+#dropdown-menu:hover {
+	background-color: lightred;
+}
+
+#navbar {
+	text-align: center;
+}
+
+img {
+	align: center;
+}
+
+content {
+	margin: auto;
+}
+
+#rankingtable {
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+#gameinfo {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#cardbody {
+	text-align: center;
+}
+
+#formrowcontainer {
+	padding-top: 80px;
+	padding-bottom: 80px;
+	margin: auto;
+	
+}
+
+#logintopcol {
+	padding-top: 5px;
+	outline: 3px solid red;
+	margin: auto;
+	
+	
+}
+
+#loginbtmcol{
+	
+	outline: 3px solid red;
+	margin: auto;
+	text-align: center;
+}
+
+#mydropdown {
+	margin: auto;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+}
+
+#email {
+	outline: solid red 1px;
+}
